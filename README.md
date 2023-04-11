@@ -16,6 +16,33 @@ Please note that certain uses of  **`getParam`** could potentially be improved t
 <li>useState</li>
 </ul>
 
+# Installation
+Clone or download this repository to your local machine.
+
+```sh
+git repo clone torrresagus/NavigationStacks-BLOG-API-React-Native
+```
+
+Open the project folder in your terminal.
+```sh
+cd NavigationStacks-BLOG-API-React-Native
+```
+Install the project dependencies.
+```sh
+yarn install
+```
+
+Start the application.
+```sh
+yarn start
+```
+Open Expo on your mobile device or on an Android or iOS emulator.
+
+Scan the QR code displayed on your terminal or on the Expo webpage.
+
+The application will open on your mobile device or emulator.
+That's it! Now you can test the application and see how it works.
+
 # Credits
 This project was inspired by Nicolas Schurmann, an engineer and software instructor also known as Hola Mundo. Thank you for your guidance and support.
 
